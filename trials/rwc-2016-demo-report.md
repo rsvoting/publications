@@ -25,7 +25,7 @@ a roster size of 1,000,000. The poll ran during the conference, from midnight
 on Wednesday January 6 through 9am on Friday January 8. Our field team
 distributed paper ballots to conference attendees until the close of polls. An
 unvoted sample ballot is available
-[here](http://rsvoting.org/trials/201601-rwc/rwc-2016-ballot-299.pdf).
+[here](http://rsvoting.org/trials/201601-rwc/rwc-2016-ballot-449.pdf).
 
 ### Election Software
 The software deployed for the trial was an improved version of the full system
